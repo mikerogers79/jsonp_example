@@ -1,0 +1,1 @@
+{"ResponseType":"Decision","product":["men","women","collections"],"category":["men","women","collections"],"test":["men","women","collections"],"test_awesome":"men","homepage":["men","women","collections"]}
